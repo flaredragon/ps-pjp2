@@ -1,3 +1,5 @@
 git checkout -b "branch name"
 changes made from dev
 changes new from dev for merge conflict
+change on this line
+this is new
