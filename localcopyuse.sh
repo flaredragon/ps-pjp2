@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile="~/Documents/Projects/mobileClassroom/pspjp/mavenproj/target/mavenproj-0.0.1-SNAPSHOT.jar" -DgroupId="com.sapient.training" -DartifactId="mavenproj" -Dversion="0.0.1-SNAPSHOT" -Dpackaging="jar"
